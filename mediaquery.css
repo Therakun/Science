@@ -1,0 +1,68 @@
+
+
+@media only screen and (min-width: 768px) {
+
+
+    .banner {
+        width: 80%;
+    }
+
+    .top-btn {
+        margin-left: 325px;
+    }
+
+    .w-f-cards {
+        height: 200px;
+        width: 20%;
+
+        margin: 15px;
+
+        overflow: hidden;
+    }
+
+    .w-f-image {
+        height: 50%;
+    }
+
+    .w-f-image img {
+        height: 100%;
+        width: 100%;
+    }
+
+    .w-f-desc {
+        height: 40%;
+    }
+
+
+    .b-cards {
+        height: 200px;
+
+        margin-left: 50px;
+    }
+
+    .b-image {
+        float: left;
+        height: 180px;
+    }
+
+    .b-desc {
+        width: 50%;
+
+        margin: 0 auto;
+    }
+
+    .tet {
+        float: left;
+        width: 40%;
+    }
+
+    .fb-form {
+        float: right;
+        width: 50%;
+    }
+
+    .rows {
+        width: 70%;
+    }
+
+}
